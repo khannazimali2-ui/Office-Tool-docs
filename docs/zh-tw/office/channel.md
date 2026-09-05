@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# Office Update Channel
+# Office Update Channel {#office-update-channel}
 
 You can also view this articles:
 
@@ -11,7 +11,7 @@ You can also view this articles:
 - [Update Office LTSC 2021](https://learn.microsoft.com/en-us/office/ltsc/2021/update)
 - [Update Office 2019](https://learn.microsoft.com/en-us/office/2019/update)
 
-## Update Channel List
+## Update Channel List {#update-channel-list}
 
 | Branch | FFN | Channel name | Channel ID |
 | :-- | :-- | :-- | :-- |

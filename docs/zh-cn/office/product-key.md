@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# Office 产品密钥
+# Office 产品密钥 {#office-product-key}
 
 这是所有 Office 产品的默认密钥。
 
@@ -10,7 +10,7 @@ aside: false
 
 其它产品不支持使用默认密钥进行激活。
 
-## 产品密钥列表
+## 产品密钥列表 {#product-key-list}
 
 | 产品 ID | 产品系列 | 激活类型 | 默认密钥 |
 | :-- | :-- | :-- | :-- |

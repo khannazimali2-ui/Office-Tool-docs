@@ -2,11 +2,11 @@
 aside: false
 ---
 
-# Языки Office
+# Языки Office {#office-language}
 
 Подробнее о языках Office см. [Languages, culture codes, and companion proofing languages](https://learn.microsoft.com/en-us/microsoft-365-apps/deploy/overview-deploying-languages-microsoft-365-apps#languages-culture-codes-and-companion-proofing-languages).
 
-## Список языков
+## Список языков {#language-list}
 
 | Culture | Язык | Название | Языки проверки | ID | Тип |
 | :--- | :--- | :--- | :--- | :--- | :--- |

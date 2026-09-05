@@ -2,11 +2,11 @@
 aside: false
 ---
 
-# Office 语言
+# Office 语言 {#office-language}
 
 若要获取 Office 语言的更多信息，请访问[语言、 区域性代码和配套校对语言](https://docs.microsoft.com/zh-cn/deployoffice/overview-deploying-languages-microsoft-365-apps#languages-culture-codes-and-companion-proofing-languages)。
 
-## 语言列表
+## 语言列表 {#language-list}
 
 | 标识符 | 语言 | 名称 | 校对语言 | ID | 类型 |
 | :--- | :--- | :--- | :--- | :--- | :--- |

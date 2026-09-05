@@ -1,4 +1,4 @@
-# Вопросы по активации
+# Вопросы по активации {#activation-questions}
 
 ::: tip Подсказка
 
@@ -117,13 +117,13 @@
 
 Убедитесь, что системная служба **Software Protection (sppsvc)** запущена. Если служба остановлена, запустите её вручную или перезагрузите компьютер.
 
-## Проблема с .NET Framework
+## Проблема с .NET Framework {#net-framework-problem}
 
 > Нативная библиотека 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\wminet_utils.dll' не содержит все необходимые функции. Обновите .NET Framework.
 
 Проверьте и установите все обновления .NET Framework через Windows Update.
 
-## На системе не найдены действительные лицензии Office KMS
+## На системе не найдены действительные лицензии Office KMS {#no-valid-office-kms-licenses-were-found-on-the-system}
 
 Чтобы активировать Office через KMS, нужно установить volume-лицензии и GVLK для Office.
 

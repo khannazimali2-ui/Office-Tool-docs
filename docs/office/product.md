@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Office Product
+# Office Product {#office-product}
 
-## Product Types
+## Product Types {#product-types}
 
 All Retail products can coexist.
 
@@ -24,9 +24,9 @@ Visio and Project can coexist with any of the Office suites.
 | Office 2024 Volume | Office24 | Key & KMS | PerpetualVL2024 |
 | Office 2024 Retail | Office24R | Key | |
 
-## Product List
+## Product List {#product-list}
 
-### Office Suite
+### Office Suite {#office-suite}
 
 | Product ID | Product Name | Apps | Add-Ons | Family |
 | :--- | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Visio and Project can coexist with any of the Office suites.
 | ProjectStdVolume | Project Standard 2016 | | OSM | Office16 |
 | ProjectStdXVolume | Project Standard 2016 | | | Office16 |
 
-### Single App
+### Single App {#single-app}
 
 | Product ID | Product Name | Apps | Add-Ons | Family |
 | :--- | :--- | :--- | :--- | :--- |

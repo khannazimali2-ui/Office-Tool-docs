@@ -1,4 +1,4 @@
-# Что такое Office Tool Plus?
+# Что такое Office Tool Plus? {#what-is-office-tool-plus}
 
 Office Tool Plus — мощный и удобный инструмент для развёртывания Office.
 
@@ -11,7 +11,7 @@ Office Tool Plus создан на основе [Office Deployment Tool](https:/
 - Visio 2016, 2019, 2021, 2024 и Visio Online Plan 2.
 - Project 2016, 2019, 2021, 2024 и Project Online Desktop Client.
 
-## Возможности
+## Возможности {#features}
 
 - Создание конфигурации установки Office. Конфигурацию можно экспортировать локально или импортировать из локального источника или из интернета.
 - Загрузка Office с поддержкой всех каналов обновления и языков.
@@ -31,7 +31,7 @@ Office Tool Plus создан на основе [Office Deployment Tool](https:/
 
 :::
 
-## Компоненты и структура
+## Компоненты и структура {#components-and-structure}
 
 ``` txt
 Office Tool

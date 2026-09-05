@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# Office Product Key
+# Office Product Key {#office-product-key}
 
 This is the default product key for all Office products.
 
@@ -10,7 +10,7 @@ Products that support KMS activation (such as volume licensing products) can be 
 
 Other products cannot be activated using the default key.
 
-## Product Key List
+## Product Key List {#product-key-list}
 
 | Product ID | Family | Activation Type | Default Key |
 | :-- | :-- | :-- | :-- |

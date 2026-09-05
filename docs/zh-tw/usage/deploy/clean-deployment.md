@@ -1,8 +1,8 @@
-# Clean deployment
+# Clean deployment {#clean-deployment}
 
 To perform a clean deployment, follow the steps below.
 
-## Uninstall Office
+## Uninstall Office {#uninstall-office}
 
 There are two ways to uninstall Office:
 
@@ -15,11 +15,11 @@ If you are unable to uninstall Office through normal means, you can [force remov
 
 :::
 
-## Clean more items
+## Clean more items {#clean-more-items}
 
 - [Clear activation information of Office](/zh-tw/usage/activate/manage.md#clear-activation): If you do not clear this information, the previously activation information will still be displayed after Office is installed.
 - [Reset Office settings to defaults](/zh-tw/usage/toolbox/office.md#reset-office-settings-to-defaults): If you do not clear this information, Office will still use the previous settings, such as language, theme, and other application settings.
 
-## Reinstall Office
+## Reinstall Office {#reinstall-office}
 
 After the cleaning is complete, simply install the new Office as you would for a [first deployment](/zh-tw/usage/deploy/first-deployment.md).

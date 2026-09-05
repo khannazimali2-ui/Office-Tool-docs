@@ -1,14 +1,14 @@
-# Вопросы по приложению
+# Вопросы по приложению {#application-questions}
 
 Иногда проблемы можно решить перезагрузкой Windows.
 
-## Приложение не запускается на более ранних версиях Windows 10
+## Приложение не запускается на более ранних версиях Windows 10 {#application-cannot-run-on-earlier-version-of-windows-10}
 
 С помощью Windows Update установите все доступные обновления и перезагрузите Windows, чтобы завершить установку.
 
 После этого попробуйте снова запустить Office Tool Plus.
 
-## Окно Office Tool Plus пустое
+## Окно Office Tool Plus пустое {#the-window-of-office-tool-plus-is-blank}
 
 Откройте CMD или PowerShell и выполните следующую команду, чтобы отключить аппаратное ускорение:
 

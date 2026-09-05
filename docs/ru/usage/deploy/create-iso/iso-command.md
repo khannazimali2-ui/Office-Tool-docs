@@ -1,4 +1,4 @@
-# Использование команды ISO
+# Использование команды ISO {#use-iso-command}
 
 При развёртывании с помощью команды ISO Office Tool Plus ищет файл `ConfigForISO.xml` в Office ISO и загружает его для развёртывания. Office Tool Plus не отображает интерфейс и сразу запускает установщик Office.
 

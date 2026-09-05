@@ -1,8 +1,8 @@
-# Инструменты Office
+# Инструменты Office {#office-tools}
 
 Инструменты Office находятся на странице `Toolbox` → раздел `Office tools`.
 
-## Удаление Office
+## Удаление Office {#remove-office}
 
 Поддерживается удаление всех версий Office.
 
@@ -18,7 +18,7 @@ Get-AppxPackage -name "Microsoft.Office.Desktop" | Remove-AppxPackage
 
 Подробнее см. [Удаление Office с ПК](https://support.microsoft.com/en-us/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8).
 
-## Смена канала обновлений Office
+## Смена канала обновлений Office {#change-office-update-channel}
 
 Эта функция позволяет изменить канал обновлений Office, чтобы обновлять/понижать версию Office без переустановки.
 
@@ -28,7 +28,7 @@ Get-AppxPackage -name "Microsoft.Office.Desktop" | Remove-AppxPackage
 
 :::
 
-## Смена владельца продукта Office
+## Смена владельца продукта Office {#change-office-product-owner}
 
 Владелец продукта Office — это владелец лицензии, как показано на изображении ниже с *Yerong™ | NekoNeko*:
 
@@ -68,7 +68,7 @@ Product ID — это ID продукта, а Name — имя, которое в
 
 :::
 
-## Сброс настроек Office к значениям по умолчанию
+## Сброс настроек Office к значениям по умолчанию {#reset-office-settings-to-defaults}
 
 Сброс настроек Office может решить некоторые проблемы. Используйте по необходимости.
 

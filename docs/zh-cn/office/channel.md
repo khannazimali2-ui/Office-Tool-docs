@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# Office 更新通道
+# Office 更新通道 {#office-update-channel}
 
 你还可以查看以下文章：
 
@@ -11,7 +11,7 @@ aside: false
 - [更新 Office LTSC 2021](https://learn.microsoft.com/zh-cn/office/ltsc/2021/update)
 - [更新 Office 2019](https://learn.microsoft.com/zh-cn/office/2019/update)
 
-## 更新通道列表
+## 更新通道列表 {#update-channel-list}
 
 | 分支 | FFN | 通道名称 | 通道 ID |
 | :-- | :-- | :-- | :-- |

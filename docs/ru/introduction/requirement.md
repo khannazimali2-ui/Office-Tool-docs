@@ -1,6 +1,6 @@
-# Системные требования
+# Системные требования {#system-requirements}
 
-## Операционная система
+## Операционная система {#operating-system}
 
 - Windows 10 или выше.
 - Windows Server 2016 или выше.
@@ -10,11 +10,11 @@
 >
 > При использовании на Windows 10 убедитесь, что установлены все доступные обновления через Windows Update.
 
-## Оборудование
+## Оборудование {#hardware}
 
 Разрешение экрана: 1024 x 768 или выше.
 
-## Среда выполнения
+## Среда выполнения {#runtime}
 
 - [.NET 10.0 Desktop Runtime x64](https://aka.ms/dotnet/10.0/windowsdesktop-runtime-win-x64.exe).
 - [.NET 10.0 Desktop Runtime Arm64](https://aka.ms/dotnet/10.0/windowsdesktop-runtime-win-arm64.exe).

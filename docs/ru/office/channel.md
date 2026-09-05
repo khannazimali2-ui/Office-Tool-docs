@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# Канал обновлений Office
+# Канал обновлений Office {#office-update-channel}
 
 Также можно ознакомиться с этими статьями:
 
@@ -11,7 +11,7 @@ aside: false
 - [Обновление Office LTSC 2021](https://learn.microsoft.com/en-us/office/ltsc/2021/update)
 - [Обновление Office 2019](https://learn.microsoft.com/en-us/office/2019/update)
 
-## Список каналов обновлений
+## Список каналов обновлений {#update-channel-list}
 
 | Ветка | FFN | Название канала | ID канала |
 | :-- | :-- | :-- | :-- |

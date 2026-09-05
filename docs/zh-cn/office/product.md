@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Office 产品
+# Office 产品 {#office-product}
 
-## 产品类型
+## 产品类型 {#product-types}
 
 所有零售版产品都可以共存。
 
@@ -24,9 +24,9 @@ Visio 和 Project 的批量版不受限制，可以和任意系列的 Office 套
 | Office 2024 Volume | Office24 | Key & KMS | PerpetualVL2024 |
 | Office 2024 Retail | Office24R | Key | |
 
-## 产品列表
+## 产品列表 {#product-list}
 
-### Office 套件
+### Office 套件 {#office-suite}
 
 | 产品 ID | 产品名称 | 应用程序 | 附加组件 | 系列 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Visio 和 Project 的批量版不受限制，可以和任意系列的 Office 套
 | ProjectStdVolume | Project Standard 2016 | | OSM | Office16 |
 | ProjectStdXVolume | Project Standard 2016 | | | Office16 |
 
-### 单个应用
+### 单个应用 {#single-app}
 
 | 产品 ID | 产品名称 | 应用程序 | 附加组件 | 系列 |
 | :--- | :--- | :--- | :--- | :--- |

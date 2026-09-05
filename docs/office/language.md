@@ -2,11 +2,11 @@
 aside: false
 ---
 
-# Office Language
+# Office Language {#office-language}
 
 For more information about Office language, please visit [Languages, culture codes, and companion proofing languages](https://learn.microsoft.com/en-us/microsoft-365-apps/deploy/overview-deploying-languages-microsoft-365-apps#languages-culture-codes-and-companion-proofing-languages).
 
-## Language List
+## Language List {#language-list}
 
 | Culture | Language | Name | Proofing Languages | ID | Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |

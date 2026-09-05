@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Продукты Office
+# Продукты Office {#office-product}
 
-## Типы продуктов
+## Типы продуктов {#product-types}
 
 Все Retail-продукты могут сосуществовать.
 
@@ -24,9 +24,9 @@ Visio и Project могут сосуществовать с любыми пак�
 | Office 2024 Volume | Office24 | Key & KMS | PerpetualVL2024 |
 | Office 2024 Retail | Office24R | Key | |
 
-## Список продуктов
+## Список продуктов {#product-list}
 
-### Пакеты Office
+### Пакеты Office {#office-suite}
 
 | ID продукта | Название продукта | Приложения | Надстройки | Семейство |
 | :--- | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Visio и Project могут сосуществовать с любыми пак�
 | ProjectStdVolume | Project Standard 2016 | | OSM | Office16 |
 | ProjectStdXVolume | Project Standard 2016 | | | Office16 |
 
-### Отдельные приложения
+### Отдельные приложения {#single-app}
 
 | ID продукта | Название продукта | Приложения | Надстройки | Семейство |
 | :--- | :--- | :--- | :--- | :--- |
