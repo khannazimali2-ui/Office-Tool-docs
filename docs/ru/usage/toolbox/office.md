@@ -46,7 +46,7 @@ Office Tool Plus не может распознать устаревшие ли�
 
 Теперь можно задать имя напрямую в списке лицензий.
 
-![Установка имени лицензии vNext](/images/en-us/activation/set-vNext-license-name.webp)
+![Установка имени лицензии vNext](/images/ru/activation/set-vNext-license-name.webp)
 
 В списке лицензий найдите лицензию, имя которой хотите изменить. Нажмите кнопку `Set name`, введите новое имя для лицензии. После этого перезапустите приложения Office, чтобы увидеть новое имя.
 
@@ -72,7 +72,7 @@ Product ID — это ID продукта, а Name — имя, которое в
 
 Сброс настроек Office может решить некоторые проблемы. Используйте по необходимости.
 
-![Скриншот сброса настроек Office к значениям по умолчанию](/images/en-us/toolbox/reset-office-to-default-settings.webp)
+![Скриншот сброса настроек Office к значениям по умолчанию](/images/ru/toolbox/reset-office-to-default-settings.webp)
 
 ::: details Применимые ситуации
 

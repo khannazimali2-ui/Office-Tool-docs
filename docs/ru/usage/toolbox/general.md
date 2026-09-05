@@ -4,7 +4,7 @@
 
 Вы можете получить информацию о версии канала обновлений Office от Microsoft, включая название канала, ветку, номер версии и время создания.
 
-![Запрос версии Office](/images/en-us/toolbox/query-office-update-channel.webp)
+![Запрос версии Office](/images/ru/toolbox/query-office-update-channel.webp)
 
 Чтобы отображать внутренние каналы, включите [Показывать внутренние продукты и каналы](/ru/usage/settings.md#показывать-внутренние-продукты-и-каналы).
 
@@ -26,4 +26,4 @@
 
 :::
 
-![Проверка хоста KMS](/images/en-us/toolbox/test-kms.webp)
+![Проверка хоста KMS](/images/ru/toolbox/test-kms.webp)
