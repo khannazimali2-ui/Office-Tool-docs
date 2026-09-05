@@ -18,19 +18,19 @@
 
 > Invalid namespace.
 
-Выполните [восстановление компонентов WMI](/ru/usage/toolbox/windows.md#восстановление-компонентов-wmi) на странице [Инструменты](/ru/usage/toolbox/windows.md).
+Выполните [восстановление компонентов WMI](/ru/usage/toolbox/windows.md#repair-wmi-components) на странице [Инструменты](/ru/usage/toolbox/windows.md).
 
 ## 0x80041010
 
 > Invalid class.
 
-Выполните [восстановление компонентов WMI](/ru/usage/toolbox/windows.md#восстановление-компонентов-wmi) на странице [Инструменты](/ru/usage/toolbox/windows.md).
+Выполните [восстановление компонентов WMI](/ru/usage/toolbox/windows.md#repair-wmi-components) на странице [Инструменты](/ru/usage/toolbox/windows.md).
 
 ## 0x8004E108
 
 > Служба лицензирования программного обеспечения сообщила, что токен в хранилище токенов содержит недопустимый хеш.
 
-Выполните [перестроение токена активации Windows](/ru/usage/toolbox/windows.md#перестроение-токена-активации-windows) на странице [Инструменты](/ru/usage/toolbox/windows.md).
+Выполните [перестроение токена активации Windows](/ru/usage/toolbox/windows.md#rebuild-windows-activation-token) на странице [Инструменты](/ru/usage/toolbox/windows.md).
 
 ## 0x8007000D
 
@@ -40,11 +40,11 @@
 
 - Проверьте, правильно ли установлено системное время.
 - Проверьте нормальность сетевого подключения.
-- Убедитесь, что используемый хост KMS работает. [Как проверить?](/ru/usage/toolbox/general.md#проверка-доступности-хоста-kms)
+- Убедитесь, что используемый хост KMS работает. [Как проверить?](/ru/usage/toolbox/general.md#test-kms-host-reachability)
 
 Затем:
 
-- [Сбросьте службу Software Protection](/ru/usage/toolbox/windows.md#сброс-службы-software-protection) на странице [Инструменты](/ru/usage/toolbox/windows.md).
+- [Сбросьте службу Software Protection](/ru/usage/toolbox/windows.md#reset-software-protection-service) на странице [Инструменты](/ru/usage/toolbox/windows.md).
 - Попробуйте активировать снова.
 
 ## 0x8007007B
@@ -68,7 +68,7 @@
 
 > Ошибка выполнения сервера.
 
-Попробуйте [сбросить службу Software Protection](/ru/usage/toolbox/windows.md#сброс-службы-software-protection) на странице [Инструменты](/ru/usage/toolbox/windows.md) и активировать снова.
+Попробуйте [сбросить службу Software Protection](/ru/usage/toolbox/windows.md#reset-software-protection-service) на странице [Инструменты](/ru/usage/toolbox/windows.md) и активировать снова.
 
 ## 0xC004E015
 
@@ -80,7 +80,7 @@
 
 > Служба лицензирования программного обеспечения сообщила, что лицензия не установлена.
 
-- [Сбросьте службу Software Protection](/ru/usage/toolbox/windows.md#сброс-службы-software-protection) на странице [Инструменты](/ru/usage/toolbox/windows.md).
+- [Сбросьте службу Software Protection](/ru/usage/toolbox/windows.md#reset-software-protection-service) на странице [Инструменты](/ru/usage/toolbox/windows.md).
 - Попробуйте установить лицензии Office заново.
 
 ## 0xC004F017
@@ -104,11 +104,11 @@
 Выполните следующее:
 
 - Проверьте нормальность сетевого подключения.
-- Убедитесь, что используемый хост KMS работает. [Как проверить?](/ru/usage/toolbox/general.md#проверка-доступности-хоста-kms)
+- Убедитесь, что используемый хост KMS работает. [Как проверить?](/ru/usage/toolbox/general.md#test-kms-host-reachability)
 
 Затем:
 
-- [Сбросьте службу Software Protection](/ru/usage/toolbox/windows.md#сброс-службы-software-protection) на странице [Инструменты](/ru/usage/toolbox/windows.md).
+- [Сбросьте службу Software Protection](/ru/usage/toolbox/windows.md#reset-software-protection-service) на странице [Инструменты](/ru/usage/toolbox/windows.md).
 - Попробуйте активировать снова.
 
 ## 0xC004F075

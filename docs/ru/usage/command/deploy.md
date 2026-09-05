@@ -14,14 +14,14 @@ deploy /add O365ProPlusRetail_en-us
 
 | Команда | Описание |  |
 | :-- | :-- | :-- |
-| /add *values[]* | Добавить один или несколько продуктов. | *Values*: productID_languages, **productID — обязательный параметр**. См. [пример](deploy.md#примеры-команд-для-развёртывания-office). |
-| /Product_ID.exclapps *value* | Задать исключённые приложения для конкретного продукта. | `Product_ID` задаётся по productID из параметра `/add`. См. [пример](deploy.md#примеры-команд-для-развёртывания-office). |
-| /Product_ID.mak *value* | Задать MAK для конкретного продукта. | `Product_ID` задаётся по productID из параметра `/add`. См. [пример](deploy.md#примеры-команд-для-развёртывания-office). |
+| /add *values[]* | Добавить один или несколько продуктов. | *Values*: productID_languages, **productID — обязательный параметр**. См. [пример](deploy.md#command-examples-for-deploying-office). |
+| /Product_ID.exclapps *value* | Задать исключённые приложения для конкретного продукта. | `Product_ID` задаётся по productID из параметра `/add`. См. [пример](deploy.md#command-examples-for-deploying-office). |
+| /Product_ID.mak *value* | Задать MAK для конкретного продукта. | `Product_ID` задаётся по productID из параметра `/add`. См. [пример](deploy.md#command-examples-for-deploying-office). |
 | /rm *values[]* | Удалить продукты. | *Values*: productID_languages, использование как у `/add`. |
 | /rmall | Удалить все продукты. |  |
 | /rmmsi | Удалить все MSI-продукты Office. |  |
-| /channel *value* | Задать канал обновлений. | *Value*: ID канала. [Подробнее](/ru/usage/deploy/settings/basic.md#канал-обновлений) |
-| /branch *value* | Задать канал обновлений по значению branch. Команда переопределяет `/channel`.  | *Value*: branch канала. [Подробнее](/ru/usage/toolbox/general.md#запрос-версии-office) |
+| /channel *value* | Задать канал обновлений. | *Value*: ID канала. [Подробнее](/ru/usage/deploy/settings/basic.md#update-channel) |
+| /branch *value* | Задать канал обновлений по значению branch. Команда переопределяет `/channel`.  | *Value*: branch канала. [Подробнее](/ru/usage/toolbox/general.md#query-office-version) |
 | /edition *value* | Задать архитектуру. | *Value*: `32` или `64`, значение по умолчанию — `32`. |
 | /migratearch | Сменить архитектуру. |  |
 | /ver *value* | Задать версию Office. | *Value*: номер версии Office. |

@@ -6,7 +6,7 @@
 
 ![Запрос версии Office](/images/ru/toolbox/query-office-update-channel.webp)
 
-Чтобы отображать внутренние каналы, включите [Показывать внутренние продукты и каналы](/ru/usage/settings.md#показывать-внутренние-продукты-и-каналы).
+Чтобы отображать внутренние каналы, включите [Показывать внутренние продукты и каналы](/ru/usage/settings.md#display-internal-products-and-channels).
 
 ## Запрос описания кода ошибки {#query-error-code-description}
 
